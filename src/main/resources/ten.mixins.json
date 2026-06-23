@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"package": "com.example.ten.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ExampleMixin",
+		"BossDamageMixin",
+		"PlayerInvulnerabilityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

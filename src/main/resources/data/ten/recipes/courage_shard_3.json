@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "ten:courage_shard_2"
+    }
+  },
+  "result": {
+    "item": "ten:courage_shard_3"
+  }
+}

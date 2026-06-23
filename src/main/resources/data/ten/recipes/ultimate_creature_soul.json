@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MCR",
+    "SFG",
+    "A  "
+  ],
+  "key": {
+    "M": {
+      "item": "ten:mining_range_upgrade_3"
+    },
+    "C": {
+      "item": "ten:courage_shard_3"
+    },
+    "R": {
+      "item": "ten:time_rewind_upgrade_3"
+    },
+    "S": {
+      "item": "ten:storage_capacity_upgrade_3"
+    },
+    "F": {
+      "item": "ten:flight_upgrade"
+    },
+    "G": {
+      "item": "ten:attack_range_upgrade_3"
+    },
+    "A": {
+      "item": "ten:attack_speed_upgrade_3"
+    }
+  },
+  "result": {
+    "item": "ten:ultimate_creature_soul"
+  }
+}

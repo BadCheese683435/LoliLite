@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GGG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "item": "ten:mining_range_upgrade_1"
+  }
+}

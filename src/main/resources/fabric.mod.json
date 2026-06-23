@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "ten",
+	"version": "${version}",
+	"name": "LoliPickaxe Reconstructed",
+	"description": "One-of-a-kind artifacts that redefine your Minecraft world.",
+	"authors": [
+		"Bad and Ten"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "GPL-3.0",
+	"icon": "assets/ten/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.ten.Ten"
+		],
+		"client": [
+			"com.example.ten.TenClient"
+		]
+	},
+	"mixins": [
+		"ten.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}

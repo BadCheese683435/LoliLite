@@ -1,0 +1,10 @@
+{
+  "bypasses_armor": true,
+  "bypasses_invulnerability": true,
+  "bypasses_magic": true,
+  "exhaustion": 0.1,
+  "message_id": "death.attack.ten.kill",
+  "scaling": "when_caused_by_living_non_player",
+  "scales_with_difficulty": false,
+  "uses_absolute_amount": true
+}

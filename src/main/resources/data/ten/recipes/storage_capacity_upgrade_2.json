@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "ten:storage_capacity_upgrade_1"
+    }
+  },
+  "result": {
+    "item": "ten:storage_capacity_upgrade_2"
+  }
+}

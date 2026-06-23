@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AXS",
+    " I ",
+    " I "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_axe"
+    },
+    "X": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "S": {
+      "item": "minecraft:iron_shovel"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "ten:normal_loli"
+  }
+}

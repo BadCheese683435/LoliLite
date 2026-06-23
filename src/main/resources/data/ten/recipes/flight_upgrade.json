@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SFS",
+    "FWF",
+    "SFS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:nether_star"
+    },
+    "F": {
+      "item": "minecraft:blaze_rod"
+    },
+    "W": {
+      "item": "minecraft:elytra"
+    }
+  },
+  "result": {
+    "item": "ten:flight_upgrade"
+  }
+}

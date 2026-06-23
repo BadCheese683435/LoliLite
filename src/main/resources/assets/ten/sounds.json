@@ -1,0 +1,22 @@
+{
+  "item": {
+    "lolissuccess": {
+      "sounds": [
+        {
+          "name": "ten:item/lolissuccess",
+          "volume": 1.0,
+          "pitch": 1.0
+        }
+      ]
+    },
+    "ultimate_attack": {
+      "sounds": [
+        {
+          "name": "ten:item/ultimate_attack",
+          "volume": 1.0,
+          "pitch": 1.0
+        }
+      ]
+    }
+  }
+}

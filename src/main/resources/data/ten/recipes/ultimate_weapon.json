@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S",
+    "L"
+  ],
+  "key": {
+    "S": {
+      "item": "ten:ultimate_creature_soul"
+    },
+    "L": {
+      "item": "ten:normal_loli"
+    }
+  },
+  "result": {
+    "item": "ten:ultimate_weapon"
+  }
+}

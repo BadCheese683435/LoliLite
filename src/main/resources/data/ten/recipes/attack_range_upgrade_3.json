@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "ten:attack_range_upgrade_2"
+    }
+  },
+  "result": {
+    "item": "ten:attack_range_upgrade_3"
+  }
+}
